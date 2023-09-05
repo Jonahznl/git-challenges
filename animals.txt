@@ -1,3 +1,8 @@
-cheetah
-dolphin
+
 horse
+crocodile
+hummingbird
+patoo
+turtle
+mongoose
+iguana
